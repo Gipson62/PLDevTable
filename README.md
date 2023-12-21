@@ -5,10 +5,10 @@ Inactive means that the repository hasn't been committed to in around a a year o
 
 If I get something wrong you can open up a GH issue (do not DM me on Discord about this, please) and I'll get right to it. <3
 
-| Name        | Author(s)             | Language          | Paradigm(s)               | State    |
-| ----------- | --------------------- | ----------------- | ------------------------- | -------- |
-| Aardvark    | Aardvark Team         | Python            | OOP/Procedural            | Active   |
-| AEC         | FlatAssembler         | C++               | Procedural                | Active   |
+| Name                                                        | Author(s)             | Language          | Paradigm(s)               | State    |
+| ----------------------------------------------------------- | --------------------- | ----------------- | ------------------------- | -------- |
+| [Aardvark](https://github.com/Aardvark-team/Aardvark-py)    | Aardvark Team         | Python            | OOP/Procedural            | Active   |
+| AEC | FlatAssembler         | C++               | Procedural                | Active   |
 | Aith        | Superstar64           | Haskell           | Procedural/Functional     | Active   |
 | Algograph   | kfdvh                 | No Implementation | ?                         | ?        |
 | Amethyst    | jenra-uwu             | Rust              | Procedural/Functional     | Active   |
